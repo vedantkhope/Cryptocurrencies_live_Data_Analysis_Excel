@@ -1,5 +1,5 @@
-##Fetching and Analysing Top 50 Live Cryptocurrency Data##
-Introduction
+## Fetching and Analysing Top 50 Live Cryptocurrency Data ##
+### Introduction ###
 This report provides valuable insights into the current state of the cryptocurrency market, with data 
 sourced using the CoinMarketCap API. By analysing the top 50 cryptocurrencies by market 
 capitalization, this report highlights key trends and performance metrics. The analysis focuses on the 
